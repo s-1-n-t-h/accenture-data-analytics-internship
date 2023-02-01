@@ -1,0 +1,80 @@
+0,1
+technology,"                   Content IDContent ID                     User IDContent ID  \
+7  97522e57-d9ab-4bd6-97bf-c24d952602d2  fa3e42f0-71d8-455f-b024-e52d5c27a145   
+3  97522e57-d9ab-4bd6-97bf-c24d952602d2  163daa38-8b77-48c9-9af6-37a6c1447ac2   
+
+  TypeContent ID             Datetime                  Content IDContent ID  \
+7        cherish  2021-04-11 17:35:49  e5490118-90d5-4572-ab1c-1fbc87b8d9ca   
+3         scared  2021-04-18 05:13:58  356fff80-da4d-4785-9f43-bc1261031dc6   
+
+                      User IDContent ID TypeContent ID    Category  \
+7  583f2bde-886d-4cf3-a5c4-7cb60cd25df3          video  technology   
+3  9fb4ce88-fac1-406c-8544-1a899cee7aaf          photo  technology   
+
+                                                 URL        Type Sentiment  \
+7  https://socialbuzz.cdn.com/content/storage/e54...  super love  positive   
+3  https://socialbuzz.cdn.com/content/storage/356...        hate  negative   
+
+   Score  
+7   75.0  
+3    5.0  "
+public speaking,"                    Content IDContent ID  \
+9   97522e57-d9ab-4bd6-97bf-c24d952602d2   
+11  97522e57-d9ab-4bd6-97bf-c24d952602d2   
+
+                       User IDContent ID TypeContent ID             Datetime  \
+9   1932a904-86ba-4438-bb52-b7e6516a4019        peeking  2021-04-01 22:54:23   
+11  f50ac030-3af8-4e07-aacf-dccff353b8f6    indifferent  2020-11-07 08:36:27   
+
+                    Content IDContent ID  \
+9   b18cb63f-4c8e-44ee-a47f-541e95191d11   
+11  46fb701d-6c26-458e-ada3-2ebe5dbba01f   
+
+                       User IDContent ID TypeContent ID         Category  \
+9   13f0db8a-152a-496f-a6e8-1ed6a90b8788          photo  public speaking   
+11  4fe1900d-5e78-41a3-88ed-18e6889c6c77          audio  public speaking   
+
+                                                  URL     Type Sentiment  \
+9   https://socialbuzz.cdn.com/content/storage/b18...    adore  positive   
+11  https://socialbuzz.cdn.com/content/storage/46f...  dislike  negative   
+
+    Score  
+9    72.0  
+11   10.0  "
+healthy eating,"                   Content IDContent ID                     User IDContent ID  \
+1  97522e57-d9ab-4bd6-97bf-c24d952602d2  5d454588-283d-459d-915d-c48a2cb4c27f   
+2  97522e57-d9ab-4bd6-97bf-c24d952602d2  92b87fa5-f271-43e0-af66-84fac21052e6   
+
+  TypeContent ID             Datetime                  Content IDContent ID  \
+1        disgust  2020-11-07 09:43:50  9f737e0a-3cdd-4d29-9d24-753f4e3be810   
+2        dislike  2021-06-17 12:22:51  230c4e4d-70c3-461d-b42c-ec09396efb3f   
+
+                      User IDContent ID TypeContent ID        Category  \
+1  beb1f34e-7870-46d6-9fc7-2e12eb83ce43          photo  healthy eating   
+2  a5c65404-5894-4b87-82f2-d787cbee86b4          photo  healthy eating   
+
+                                                 URL     Type Sentiment  Score  
+1  https://socialbuzz.cdn.com/content/storage/9f7...     want  positive   70.0  
+2  https://socialbuzz.cdn.com/content/storage/230...  disgust  negative    0.0  "
+soccer,"                   Content IDContent ID                     User IDContent ID  \
+8  97522e57-d9ab-4bd6-97bf-c24d952602d2  b0c22f82-b882-4394-bf27-6dfadf26e5c2   
+
+  TypeContent ID             Datetime                  Content IDContent ID  \
+8           hate  2021-01-27 08:32:09  0bedca96-fb76-4287-a83c-17330ed39cce   
+
+                      User IDContent ID TypeContent ID Category  \
+8  2bd9c167-e06c-47c1-a978-3403d6724606          photo   soccer   
+
+                                                 URL     Type Sentiment  Score  
+8  https://socialbuzz.cdn.com/content/storage/0be...  cherish  positive   70.0  "
+dogs,"                   Content IDContent ID                     User IDContent ID  \
+6  97522e57-d9ab-4bd6-97bf-c24d952602d2  7918d465-0953-4f20-9e28-539e74c82e2f   
+
+  TypeContent ID             Datetime                  Content IDContent ID  \
+6        peeking  2020-12-07 06:27:54  3f8590c7-6ab2-4973-805a-90cdec355f05   
+
+                      User IDContent ID TypeContent ID Category  \
+6  ae600af5-c1f0-4b1f-adb0-1b4c246373e4          video     dogs   
+
+                                                 URL  Type Sentiment  Score  
+6  https://socialbuzz.cdn.com/content/storage/3f8...  love  positive   65.0  "
